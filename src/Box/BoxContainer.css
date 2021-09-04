@@ -1,0 +1,14 @@
+.BoxContainer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    flex:1
+    }
+#fill-window {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}    
